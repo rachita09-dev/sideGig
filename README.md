@@ -1,0 +1,5 @@
+- Create a vite + react application
+- Remove unecessary code and create a Hello Worl app
+- Install Tailwid CSS
+- Install DaisyUI
+- Add NavBar component to App.jsx
