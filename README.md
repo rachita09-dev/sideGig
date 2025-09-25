@@ -3,3 +3,9 @@
 - Install Tailwid CSS
 - Install DaisyUI
 - Add NavBar component to App.jsx
+- Create a NavBar.jsx separate ccompoenent file
+- Install React router dom
+- create BrowserRouter > Routes > Route = /Body > RouteChildren
+- create an outlet in your Body Component
+- Create a footer 
+- create a login page
